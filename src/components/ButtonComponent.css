@@ -1,0 +1,11 @@
+.button, .buttonCopied{
+    text-transform: capitalize !important   ;
+    font-size: 1.2rem !important;
+    background-color: #2BD1CE !important;
+}
+.button:hover{
+    background-color: #9BE2E2 !important;
+}
+.buttonCopied{
+    background-color: #3A3053 !important;
+}
